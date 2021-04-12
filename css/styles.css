@@ -209,12 +209,13 @@ th:nth-of-type(2) {
   transform: rotateX(-90deg);
 }
 
-/*.table__top th:nth-of-type(4) {
+.table__top th:nth-of-type(4) {
   transform-origin: right;
   transform: rotateY(-90deg);
   right: 0;
 }
-.table__top th:nth-of-type(5) {
+
+/*.table__top th:nth-of-type(5) {
   transform-origin: bottom;
   bottom: 0;
   transform: rotateX(90deg);

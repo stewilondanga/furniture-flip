@@ -243,11 +243,12 @@ th:nth-of-type(2) {
   transform: translate3d(0, 0, 25px);
 }
 
-/*.table__leg:nth-of-type(3),
+.table__leg:nth-of-type(3),
 .table__leg:nth-of-type(4) {
   left: 275px;
 }
-.table__leg td {
+
+/*.table__leg td {
   height: 100%;
   width: 100%;
 }

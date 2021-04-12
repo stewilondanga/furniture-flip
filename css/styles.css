@@ -253,10 +253,11 @@ th:nth-of-type(2) {
   width: 100%;
 }
 
-/*.table__leg td:nth-of-type(2) {
+.table__leg td:nth-of-type(2) {
   transform: translate3d(0, 0, -25px);
 }
-.table__leg td:nth-of-type(3) {
+
+/*.table__leg td:nth-of-type(3) {
   transform-origin: left;
   transform: rotateY(90deg);
 }

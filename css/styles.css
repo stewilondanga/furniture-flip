@@ -257,11 +257,12 @@ th:nth-of-type(2) {
   transform: translate3d(0, 0, -25px);
 }
 
-/*.table__leg td:nth-of-type(3) {
+.table__leg td:nth-of-type(3) {
   transform-origin: left;
   transform: rotateY(90deg);
 }
-.table__leg td:nth-of-type(4) {
+
+/*.table__leg td:nth-of-type(4) {
   transform-origin: right;
   transform: rotateY(-90deg);
 }

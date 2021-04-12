@@ -238,11 +238,12 @@ th:nth-of-type(2) {
   transform: translate3d(0, 0, 200px);
 }
 
-/*.table__leg:nth-of-type(2),
+.table__leg:nth-of-type(2),
 .table__leg:nth-of-type(4) {
   transform: translate3d(0, 0, 25px);
 }
-.table__leg:nth-of-type(3),
+
+/*.table__leg:nth-of-type(3),
 .table__leg:nth-of-type(4) {
   left: 275px;
 }

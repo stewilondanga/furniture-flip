@@ -135,11 +135,12 @@ th {
   background-size: cover;
 }
 
-/*td:nth-of-type(3),
+td:nth-of-type(3),
 th:nth-of-type(6) {
   filter: brightness(0.25);
 }
-th:nth-of-type(2) {
+
+/*th:nth-of-type(2) {
   filter: brightness(0.5);
 }
 .table {

@@ -204,11 +204,12 @@ th:nth-of-type(2) {
   width: 25px;
 }
 
-/*.table__top th:nth-of-type(3) {
+.table__top th:nth-of-type(3) {
   transform-origin: top;
   transform: rotateX(-90deg);
 }
-.table__top th:nth-of-type(4) {
+
+/*.table__top th:nth-of-type(4) {
   transform-origin: right;
   transform: rotateY(-90deg);
   right: 0;

@@ -128,13 +128,14 @@ input:checked~table {
   transform: translate(-50%, -50%) rotateX(-30deg) rotateY(40deg) translate3d(0, 0, -100px) rotateX(90deg);
 }
 
-/*td,
+td,
 th {
   background-color: #4c2e10;
   background-image: url('https://source.unsplash.com/xVKEZ9wVIYM/300x300');
   background-size: cover;
 }
-td:nth-of-type(3),
+
+/*td:nth-of-type(3),
 th:nth-of-type(6) {
   filter: brightness(0.25);
 }

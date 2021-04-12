@@ -4,6 +4,12 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: #86e2d5;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -111,11 +117,6 @@
 
 .share-button:hover .share__link:nth-of-type(4) {
   transition-delay: 0.4s;
-}
-body {
-  background-color: #86e2d5;
-  min-height: 100vh;
-  overflow: hidden;
 }
 input {
   cursor: pointer;

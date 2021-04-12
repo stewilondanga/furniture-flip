@@ -168,14 +168,15 @@ th:nth-of-type(2) {
   width: 100%;
 }
 
-/*.table__top {
+.table__top {
   height: 200px;
   width: 300px;
   top: 75px;
   transform: rotateX(90deg) translate3d(0, 0, 0);
   transform-origin: top center;
 }
-.table__top th:nth-of-type(1),
+
+/*.table__top th:nth-of-type(1),
 .table__top th:nth-of-type(2) {
   height: 100%;
   width: 100%;

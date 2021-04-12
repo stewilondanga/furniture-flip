@@ -157,12 +157,13 @@ th:nth-of-type(2) {
   display: block;
 }
 
-/*.table * {
+.table * {
   transform-style: preserve-3d;
   position: absolute;
   display: block;
 }
-.table tbody {
+
+/*.table tbody {
   height: 100%;
   width: 100%;
 }

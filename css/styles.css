@@ -198,12 +198,13 @@ th:nth-of-type(2) {
   width: 100%;
 }
 
-/*.table__top th:nth-of-type(4),
+.table__top th:nth-of-type(4),
 .table__top th:nth-of-type(6) {
   height: 100%;
   width: 25px;
 }
-.table__top th:nth-of-type(3) {
+
+/*.table__top th:nth-of-type(3) {
   transform-origin: top;
   transform: rotateX(-90deg);
 }

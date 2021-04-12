@@ -307,12 +307,12 @@ th:nth-of-type(2) {
   font-size: 15px;
 }
 
-/*
 .cal th {
   color: #aaa;
   line-height: 200%;
 }
 
+/*
 .cal th:first-child {
   color: #f00;
 }

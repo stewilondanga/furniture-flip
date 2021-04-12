@@ -215,12 +215,13 @@ th:nth-of-type(2) {
   right: 0;
 }
 
-/*.table__top th:nth-of-type(5) {
+.table__top th:nth-of-type(5) {
   transform-origin: bottom;
   bottom: 0;
   transform: rotateX(90deg);
 }
-.table__top th:nth-of-type(6) {
+
+/*.table__top th:nth-of-type(6) {
   transform-origin: left;
   left: 0;
   transform: rotateY(90deg);

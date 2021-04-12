@@ -275,8 +275,6 @@ th:nth-of-type(2) {
   transform: rotateX(90deg);
 }
 
-/*
-
 #contact h1 {
   font-family: helvetica;
   font-weight: normal;
@@ -288,6 +286,7 @@ th:nth-of-type(2) {
   margin: 0 auto;
 }
 
+/*
 .cal {
   display: inline-block;
   background: #ffe;
